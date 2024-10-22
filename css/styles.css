@@ -1,0 +1,38 @@
+/*************
+
+Author: Hannah O'Shea 
+Files: styles.css (halloween project) 
+Date: 10/22/2024
+
+/*************/
+
+
+
+/*Fonts*/
+
+
+
+/*************/
+/*************
+Colors to be used: 
+
+Background : #E29D4C 
+
+Color : #fff 
+
+Hover : #000 
+
+Background for the hover : #5A3D1F
+
+Media Cards -> Orange to purple 
+
+
+************/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
